@@ -7,7 +7,8 @@
 **BETWEEN-Effekte (zwischen Ländern):**
 | Variable | Effekt | p-Wert | R² |
 |----------|--------|--------|-----|
-| **BIP pro Kopf** | +0.27 pro 10k USD | **p<0.001*** | **0.63** |
+| | | | **0.63** |
+| **BIP pro Kopf** | +0.27 pro 10k USD | **p<0.001*** | |
 | **Demokratie** | +0.011 | **p<0.001*** | |
 
 **WITHIN-Effekte (innerhalb Länder):**  

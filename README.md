@@ -28,4 +28,4 @@
 > **Global:** Wirtschaft + Demokratie erklären Glücksunterschiede.  
 > **Innerhalb Länder:** Geringe Within-Varianz der Prädiktoren.
 
-**Live Notebook:** [Analyse.ipynb](Analyse.ipynb)
+**Live Notebook:** [Analyse öffnen] (./Analyse.ipynb)
